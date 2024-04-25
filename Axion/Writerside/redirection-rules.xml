@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6ea2dac2">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="f0d3f0a">
+        <description>Created after removal of "Axion" from Help Instance</description>
+        <accepts>Play-with-semantic-attributes.html</accepts>
+    </rule>
+    <rule id="6d1c87a9">
+        <description>Created after removal of "Add semantic elements to Markdown" from Help Instance</description>
+        <accepts>Add-semantic-elements-to-Markdown.html</accepts>
+    </rule>
+    <rule id="630a178e">
+        <description>Created after removal of "Convert Markdown to XML" from Axion</description>
+        <accepts>Convert-Markdown-to-XML.html</accepts>
+    </rule>
+    <rule id="6165bb72">
+        <description>Created after removal of "Quickly add images, links, and tables" from Axion</description>
+        <accepts>Quickly-add-images-links-and-tables.html</accepts>
+    </rule>
+    <rule id="6d1943f5">
+        <description>Created after removal of "Add Mermaid diagrams" from Axion</description>
+        <accepts>Add-Mermaid-diagrams.html</accepts>
+    </rule>
+    <rule id="5fcb54c6">
+        <description>Created after removal of "Add math formulas" from Axion</description>
+        <accepts>Add-math-formulas.html</accepts>
+    </rule>
+    <rule id="28542f01">
+        <description>Created after removal of "Configuração Passo a Passo" from Axion</description>
+        <accepts>Empty-MD-Topic.MD.html</accepts>
+    </rule>
+    <rule id="eb7d55b">
+        <description>Created after removal of "Axton" from Axion</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="1706bfb7">
+        <description>Created after removal of "Axton" from Axion</description>
+        <accepts>Axton@.html</accepts>
+    </rule>
+    <rule id="7911a09c">
+        <description>Created after removal of "Empty MD Topic" from Axion</description>
+        <accepts>Empty-MD-Topic4.html</accepts>
+    </rule>
+    <rule id="34a22320">
+        <description>Created after removal of "Empty XML Topic" from Axion</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+    <rule id="34905d5b">
+        <description>Created after removal of "Starter" from Axion</description>
+        <accepts>Starter2.html</accepts>
+    </rule>
+    <rule id="31c1b8ce">
+        <description>Created after removal of "Configuração Passo a Passo" from Axion</description>
+        <accepts>AxtonAxton.html</accepts>
+    </rule>
+    <rule id="36f48958">
+        <description>Created after removal of "Empty MD Topic" from Axion</description>
+        <accepts>Empty-MD-Topicl.html</accepts>
+    </rule>
+</rules>

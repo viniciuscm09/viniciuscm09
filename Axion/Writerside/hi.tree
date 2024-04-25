@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Axion"
+                  start-page="Axton.md">
+
+    <toc-element topic="Axton.md">
+    </toc-element>
+    <toc-element topic="Passo-a-Passo.md">
+        <toc-element topic="Processo-do-Axton.md"/>
+    </toc-element>
+    <toc-element topic="Pesagem.md"/>
+</instance-profile>
