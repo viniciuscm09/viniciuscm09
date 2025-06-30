@@ -11,7 +11,7 @@ Sou desenvolvedor **C#/.NET**, apaixonado por criar soluções robustas e escal�
 - 🔭 Atualmente trabalhando com **C#**, **.NET Core/Framework**, **ASP.NET** e **Entity Framework**
 - 🌱 Estudando sobre **arquitetura de software**, **clean code** e **microservices**
 - 💬 Adoro discutir sobre **boas práticas de desenvolvimento** e **padrões de design**
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
+- 📫 Como me encontrar: **viniciuscm06@gmail.com**
 - ⚡ Fato curioso: **"Se você passa muito tempo pensando sobre algo, nunca vai conseguir fazer." - Bruce Lee**
 
 ## 🛠️ Tecnologias & Ferramentas
